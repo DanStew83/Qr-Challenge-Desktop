@@ -1,0 +1,40 @@
+body{
+background-color: hsl(212, 45%, 89%);
+text-align: center;
+width: 1440px;
+}
+
+h1{
+ color: hsl(218, 44%, 22%); 
+ font-family: 'Outfit', sans-serif;
+ font-size: medium;
+ font-weight: 700;
+ line-height: 1;
+}
+
+p{
+   color:  hsl(220, 15%, 55%);
+   font-family: 'Outfit', sans-serif;
+   font-size: small;
+   font-weight: 400;
+   line-height: 1;
+ 
+}
+
+
+.qrframe{
+    background-color: white;
+    border-radius: 10%;
+    height: 250px;
+    margin: 100px auto;
+    padding: 20px 10px 100px 10px;
+    width: 225px;
+    
+}
+
+.qrcode{
+    border-radius: 10%;
+    height: 200px;
+    position: relative;
+    width: 200px;
+}
